@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "EvaluEAT",
+      "EvaluEATgateway"
+    ],
+    "directoryPath": "I:/DATA/Web/github/",
+    "gatewayType": "zuul",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "YmY4NzNlM2NkNzk3OWI1NmExOTFlMmU5ZDJjMWExN2JkNmVkY2I2OThlMmE0N2MzYjZiYWJiNzZiZmUxMjE0ZjJhZGU1ZGNiYzJhYWU2NzA2NjhmZmZhNmE2MzA4MGZjMDBkMA=="
+  }
+}
